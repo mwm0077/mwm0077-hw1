@@ -10,7 +10,7 @@ int main()
 	Starter_Object so1 {  };
 	so1.val1(100);
 	so1.val2(1);
-	
+	cout << "Here is my Work!! ************";
 	cout << "val1: " << so1.val1() << '\n';
 	cout << "val2: " << so1.val2() << '\n';
 
